@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25C25E&center=true&vCenter=true&width=500&lines=Senior+Data+Engineer;Big+Data+Pipelines;Building+Scalable+AI+Models;Python+%7C+Spark+%7C+AWS+%7C+Kafka+%7C+Google+%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25C25E&center=true&vCenter=true&width=500&lines=Senior+ML+/+Data+Engineer;SPSS+%26+Statistical+Analysis;aiModeling+%26+Algorithms;BigQuery+%7C+Dataflow+%7C+Vertex+AI;Python+(SciPy%2FNumPy)+%2B+R" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -60,14 +60,14 @@ graph LR
 # capabilities.yaml
 
 infrastructure:
-  cloud: [AWS (S3, EMR, SageMaker), GCP (BigQuery, Dataflow)]
+  cloud: [ GCP (BigQuery, Dataflow)]
   iac: [Terraform, Ansible]
-  containers: [Docker, Kubernetes, Helm]
+  containers: [Docker, Kubernetes]
 
 data_engineering:
-  streaming: [Apache Kafka, Spark Streaming, Flink]
-  orchestration: [Airflow, Prefect, Dagster]
-  databases: [PostgreSQL, Cassandra, MongoDB, Redis, Snowflake]
+  streaming: [Apache Kafka,]
+  orchestration: [Airflow]
+  databases: [PostgreSQL, Cassandra, MongoDB]
 
 machine_learning:
   frameworks: [PyTorch, TensorFlow, Scikit-learn]
@@ -75,7 +75,7 @@ machine_learning:
   gen_ai: [LangChain, HuggingFace, OpenAI API]
 
 languages:
-  primary: [Python, SQL, Scala]
+  primary: [Python, SQL, Java, JavaScript]
   scripting: [Bash]
 ~~~
 
@@ -88,8 +88,7 @@ languages:
     "email": "ugurulasnl@gmail.com",
     "response_time": " Within 365 days :)"
   },
-  "open_to_collaborate": true
-}
+  "open_to_collaborate": true}
 ~~~
 
 </div>
