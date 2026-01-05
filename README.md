@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25C25E&center=true&vCenter=true&width=500&lines=Senior+Data+Engineer;Big+Data+Pipelines;Building+Scalable+AI+Models;Python+%7C+Spark+%7C+AWS+%7C+Kafka+%7C+GoogleCloud+%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25C25E&center=true&vCenter=true&width=500&lines=Senior+Data+Engineer;Big+Data+Pipelines;Building+Scalable+AI+Models;Python+%7C+Spark+%7C+AWS+%7C+Kafka+%7C+Google+%8C" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -37,26 +37,15 @@ class SeniorEngineer:
 
 ~~~mermaid
 graph LR
-    subgraph INPUTS [Raw Signal]
-        A(Complex Data Problems) --> B{Processing Unit}
-        C(Unstructured Business Logic) --> B
-    end
-
-    subgraph PROCESS [Core Competencies]
-        B -->|Ingest| D[Apache Kafka/Spark]
-        D -->|Store| E[(Data Lake / Warehouse)]
-        E -->|Train| F[ML Ops / TensorFlow]
-        F -->|Deploy| G[Kubernetes / Docker]
-    end
-
-    subgraph OUTPUTS [Value Delivered]
-        G --> H(Scalable APIs)
-        G --> I(Real-time Insights)
-        G --> J(Cost Optimization)
-    end
+    A[📡 Live Data Stream] -->|Kafka| B(⚡ Spark Streaming)
+    B -->|Process| C{ AI Engine}
+    C -->|Detect| D[Fintech Fraud Alert]
+    C -->|Store| E[( Data Lake)]
     
-    style B fill:#f9f,stroke:#333,stroke-width:2px,color:black
-    style G fill:#bbf,stroke:#333,stroke-width:2px,color:black
+    style A fill:#20C20E,stroke:#333,color:black
+    style B fill:#20C20E,stroke:#333,color:black
+    style C fill:#fff,stroke:#333,color:black
+    style D fill:#f00,stroke:#333,color:white
 ~~~
 </div>
 
