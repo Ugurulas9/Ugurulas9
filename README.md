@@ -1,10 +1,13 @@
+<div align="center">
+
 ### 📡 System Status: `ONLINE`
+
 ```python
-class SeniorEngineer:
+class SeniorDataEngineer / ML Engineer:
     def __init__(self):
         self.name = "Ugur"
         self.role = "Senior Data & ML Engineer"
-        self.location = "Global / Remote"
+        self.location = "Netherlands"
         self.mission = "Building resilient data backbones & Scalable AI"
 
     def get_current_focus(self):
