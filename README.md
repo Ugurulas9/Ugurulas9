@@ -2,7 +2,7 @@
 ```python
 class SeniorEngineer:
     def __init__(self):
-        self.name = "[Adın]"
+        self.name = "Ugur"
         self.role = "Senior Data & ML Engineer"
         self.location = "Global / Remote"
         self.mission = "Building resilient data backbones & Scalable AI"
